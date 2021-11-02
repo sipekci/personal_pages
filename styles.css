@@ -16,16 +16,21 @@ img {
     max-width: 100px;
     }
 
-.links {
-    background-color: #23abd8;
-    border:tan;
-    padding: 10px 32px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 18px;
+body{
     font-family: georgia;
-    margin-left: auto;
+    font-size: 15px;
+    letter-spacing: 2px;
+    color:sandybrown;
+    background: rgb(162, 192, 162);
+}
+.links {
+    text-align: center;
+    background-color: #23abd8;
+    border: 1px tan;
+    border-width: 2px;
+    padding: 20px;
     display: block;
+    margin-left: auto;
     margin-right: auto;
     cursor: pointer;
     border-radius: 25%;
