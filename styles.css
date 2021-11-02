@@ -24,9 +24,11 @@ img {
     text-decoration: none;
     font-size: 24px;
     font-family: georgia;
-    margin: 4px 2px;
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
     cursor: pointer;
-    border-radius: 40%;
+    border-radius: 25%;
 }
 
 a:hover {
