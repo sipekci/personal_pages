@@ -34,7 +34,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     cursor: pointer;
-    border-radius: 25%;
+    border-radius: 40px;
 }
 
 a:hover {
