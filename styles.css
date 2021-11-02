@@ -19,7 +19,7 @@ img {
 body{
     font-family: georgia;
     font-size: 15px;
-    letter-spacing: 10px;
+    letter-spacing: 5px;
     color:sandybrown;
     background: rgb(162, 192, 162);
 }
@@ -32,6 +32,7 @@ body{
     padding: 1em;
     display: block;
     margin: auto;
+    margin-top: 20px;
     cursor: pointer;
     border-radius: 40px;
 }
