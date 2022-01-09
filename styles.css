@@ -6,6 +6,7 @@ div.profile-name {
 
 img {
     border-radius: 50%;
+
     }
 
 .profile-picture {
@@ -16,6 +17,11 @@ img {
     height: auto;
     max-width: 100px;
     }
+
+.profile-picture img {
+    width: 100%;
+    height: auto;
+}
 
 body{
     font-family: georgia;
