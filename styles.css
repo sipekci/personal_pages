@@ -15,13 +15,9 @@ img {
     margin-right: auto;
     margin-top: 10%;
     height: auto;
-    max-width: 100px;
+    width: 100%;
     }
 
-img.profile-picture {
-    width: 100%;
-    height: auto;
-}
 
 body{
     font-family: georgia;
