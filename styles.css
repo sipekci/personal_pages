@@ -6,7 +6,7 @@ div.profile-name {
     }
 
 img {
-    border-radius: 50%;
+    border-radius: 100%;
     }
 
 .profile-picture {
@@ -15,7 +15,7 @@ img {
     margin-right: auto;
     margin-top: 5%;
     height: auto;
-    max-width: 25%;
+    max-width: 10%;
     }
 
 
